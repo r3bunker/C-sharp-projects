@@ -1,0 +1,13 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs.deps.json
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs.runtimeconfig.json
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs.runtimeconfig.dev.json
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs.dll
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\bin\Debug\netcoreapp3.1\myConsoleProject.cs.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs.csprojAssemblyReference.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs.AssemblyInfoInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs.AssemblyInfo.cs
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs.dll
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Basic_C#_Programs\myConsoleProject.cs\myConsoleProject.cs\obj\Debug\netcoreapp3.1\myConsoleProject.cs.genruntimeconfig.cache
