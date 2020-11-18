@@ -1,0 +1,7 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\drill124_AcmeAccounting\drill124_AcmeAccounting\bin\Debug\drill124_AcmeAccounting.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\drill124_AcmeAccounting\drill124_AcmeAccounting\bin\Debug\drill124_AcmeAccounting.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\drill124_AcmeAccounting\drill124_AcmeAccounting\bin\Debug\drill124_AcmeAccounting.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\drill124_AcmeAccounting\drill124_AcmeAccounting\obj\Debug\drill124_AcmeAccounting.csprojAssemblyReference.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\drill124_AcmeAccounting\drill124_AcmeAccounting\obj\Debug\drill124_AcmeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\drill124_AcmeAccounting\drill124_AcmeAccounting\obj\Debug\drill124_AcmeAccounting.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\drill124_AcmeAccounting\drill124_AcmeAccounting\obj\Debug\drill124_AcmeAccounting.pdb
