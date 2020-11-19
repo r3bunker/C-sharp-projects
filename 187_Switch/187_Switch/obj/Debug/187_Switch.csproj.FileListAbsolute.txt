@@ -1,0 +1,7 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\187_Switch\187_Switch\bin\Debug\187_Switch.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\187_Switch\187_Switch\bin\Debug\187_Switch.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\187_Switch\187_Switch\bin\Debug\187_Switch.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\187_Switch\187_Switch\obj\Debug\187_Switch.csprojAssemblyReference.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\187_Switch\187_Switch\obj\Debug\187_Switch.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\187_Switch\187_Switch\obj\Debug\187_Switch.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\187_Switch\187_Switch\obj\Debug\187_Switch.pdb
