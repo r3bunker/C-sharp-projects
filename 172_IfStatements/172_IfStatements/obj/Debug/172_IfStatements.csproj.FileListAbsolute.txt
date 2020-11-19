@@ -1,0 +1,7 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\172_IfStatements\172_IfStatements\obj\Debug\172_IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\172_IfStatements\172_IfStatements\bin\Debug\172_IfStatements.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\172_IfStatements\172_IfStatements\bin\Debug\172_IfStatements.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\172_IfStatements\172_IfStatements\bin\Debug\172_IfStatements.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\172_IfStatements\172_IfStatements\obj\Debug\172_IfStatements.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\172_IfStatements\172_IfStatements\obj\Debug\172_IfStatements.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\172_IfStatements\172_IfStatements\obj\Debug\172_IfStatements.csprojAssemblyReference.cache
