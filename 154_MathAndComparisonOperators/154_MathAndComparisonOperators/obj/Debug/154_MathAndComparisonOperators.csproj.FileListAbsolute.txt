@@ -1,0 +1,6 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\154_MathAndComparisonOperators\154_MathAndComparisonOperators\bin\Debug\154_MathAndComparisonOperators.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\154_MathAndComparisonOperators\154_MathAndComparisonOperators\bin\Debug\154_MathAndComparisonOperators.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\154_MathAndComparisonOperators\154_MathAndComparisonOperators\bin\Debug\154_MathAndComparisonOperators.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\154_MathAndComparisonOperators\154_MathAndComparisonOperators\obj\Debug\154_MathAndComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\154_MathAndComparisonOperators\154_MathAndComparisonOperators\obj\Debug\154_MathAndComparisonOperators.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\154_MathAndComparisonOperators\154_MathAndComparisonOperators\obj\Debug\154_MathAndComparisonOperators.pdb
