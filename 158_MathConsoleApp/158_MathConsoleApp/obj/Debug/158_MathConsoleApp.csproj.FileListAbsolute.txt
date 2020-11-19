@@ -1,0 +1,7 @@
+C:\Users\RyanB\source\repos\158_MathConsoleApp\158_MathConsoleApp\bin\Debug\158_MathConsoleApp.exe.config
+C:\Users\RyanB\source\repos\158_MathConsoleApp\158_MathConsoleApp\bin\Debug\158_MathConsoleApp.exe
+C:\Users\RyanB\source\repos\158_MathConsoleApp\158_MathConsoleApp\bin\Debug\158_MathConsoleApp.pdb
+C:\Users\RyanB\source\repos\158_MathConsoleApp\158_MathConsoleApp\obj\Debug\158_MathConsoleApp.csprojAssemblyReference.cache
+C:\Users\RyanB\source\repos\158_MathConsoleApp\158_MathConsoleApp\obj\Debug\158_MathConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\source\repos\158_MathConsoleApp\158_MathConsoleApp\obj\Debug\158_MathConsoleApp.exe
+C:\Users\RyanB\source\repos\158_MathConsoleApp\158_MathConsoleApp\obj\Debug\158_MathConsoleApp.pdb
