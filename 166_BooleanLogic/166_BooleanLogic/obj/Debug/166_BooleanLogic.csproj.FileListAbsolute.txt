@@ -1,0 +1,6 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\166_BooleanLogic\166_BooleanLogic\bin\Debug\166_BooleanLogic.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\166_BooleanLogic\166_BooleanLogic\bin\Debug\166_BooleanLogic.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\166_BooleanLogic\166_BooleanLogic\bin\Debug\166_BooleanLogic.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\166_BooleanLogic\166_BooleanLogic\obj\Debug\166_BooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\166_BooleanLogic\166_BooleanLogic\obj\Debug\166_BooleanLogic.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\166_BooleanLogic\166_BooleanLogic\obj\Debug\166_BooleanLogic.pdb
