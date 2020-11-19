@@ -1,0 +1,7 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\VariableAndDataTypes-136\VariableAndDataTypes-136\bin\Debug\VariableAndDataTypes-136.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\VariableAndDataTypes-136\VariableAndDataTypes-136\bin\Debug\VariableAndDataTypes-136.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\VariableAndDataTypes-136\VariableAndDataTypes-136\bin\Debug\VariableAndDataTypes-136.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\VariableAndDataTypes-136\VariableAndDataTypes-136\obj\Debug\VariableAndDataTypes-136.csprojAssemblyReference.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\VariableAndDataTypes-136\VariableAndDataTypes-136\obj\Debug\VariableAndDataTypes-136.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\VariableAndDataTypes-136\VariableAndDataTypes-136\obj\Debug\VariableAndDataTypes-136.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\VariableAndDataTypes-136\VariableAndDataTypes-136\obj\Debug\VariableAndDataTypes-136.pdb
