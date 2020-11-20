@@ -4,3 +4,4 @@ C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\185_ShippingPackage\
 C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\185_ShippingPackage\185_ShippingPackage\obj\Debug\185_ShippingPackage.csproj.CoreCompileInputs.cache
 C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\185_ShippingPackage\185_ShippingPackage\obj\Debug\185_ShippingPackage.exe
 C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\185_ShippingPackage\185_ShippingPackage\obj\Debug\185_ShippingPackage.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\185_ShippingPackage\185_ShippingPackage\obj\Debug\185_ShippingPackage.csprojAssemblyReference.cache
