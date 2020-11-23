@@ -1,0 +1,7 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\193_StringChallenge\193_StringChallenge\bin\Debug\193_StringChallenge.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\193_StringChallenge\193_StringChallenge\bin\Debug\193_StringChallenge.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\193_StringChallenge\193_StringChallenge\bin\Debug\193_StringChallenge.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\193_StringChallenge\193_StringChallenge\obj\Debug\193_StringChallenge.csprojAssemblyReference.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\193_StringChallenge\193_StringChallenge\obj\Debug\193_StringChallenge.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\193_StringChallenge\193_StringChallenge\obj\Debug\193_StringChallenge.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\193_StringChallenge\193_StringChallenge\obj\Debug\193_StringChallenge.pdb
