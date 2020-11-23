@@ -1,0 +1,7 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\190_DoWhile\190_DoWhile\bin\Debug\190_DoWhile.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\190_DoWhile\190_DoWhile\bin\Debug\190_DoWhile.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\190_DoWhile\190_DoWhile\bin\Debug\190_DoWhile.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\190_DoWhile\190_DoWhile\obj\Debug\190_DoWhile.csprojAssemblyReference.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\190_DoWhile\190_DoWhile\obj\Debug\190_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\190_DoWhile\190_DoWhile\obj\Debug\190_DoWhile.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\190_DoWhile\190_DoWhile\obj\Debug\190_DoWhile.pdb
