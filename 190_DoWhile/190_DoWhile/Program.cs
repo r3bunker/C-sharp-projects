@@ -10,6 +10,15 @@ namespace _190_DoWhile
     {
         static void Main(string[] args)
         {
+            // while loop
+            int n = 0;
+            while(n < 20)
+            {
+                Console.WriteLine("{0}", n);
+                n++;
+            }
+
+            // Do while loop
             int i = 0;
 
             do
