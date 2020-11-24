@@ -1,0 +1,6 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\198_ArrayDrill\198_ArrayDrill\bin\Debug\198_ArrayDrill.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\198_ArrayDrill\198_ArrayDrill\bin\Debug\198_ArrayDrill.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\198_ArrayDrill\198_ArrayDrill\bin\Debug\198_ArrayDrill.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\198_ArrayDrill\198_ArrayDrill\obj\Debug\198_ArrayDrill.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\198_ArrayDrill\198_ArrayDrill\obj\Debug\198_ArrayDrill.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\198_ArrayDrill\198_ArrayDrill\obj\Debug\198_ArrayDrill.pdb
