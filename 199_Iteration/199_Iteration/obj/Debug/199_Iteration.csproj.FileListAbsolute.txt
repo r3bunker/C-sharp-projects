@@ -1,0 +1,6 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\199_Iteration\199_Iteration\bin\Debug\199_Iteration.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\199_Iteration\199_Iteration\bin\Debug\199_Iteration.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\199_Iteration\199_Iteration\bin\Debug\199_Iteration.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\199_Iteration\199_Iteration\obj\Debug\199_Iteration.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\199_Iteration\199_Iteration\obj\Debug\199_Iteration.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\199_Iteration\199_Iteration\obj\Debug\199_Iteration.pdb
