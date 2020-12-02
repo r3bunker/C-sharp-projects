@@ -1,0 +1,7 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\214_TryCatchDrill\214_TryCatchDrill\bin\Debug\214_TryCatchDrill.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\214_TryCatchDrill\214_TryCatchDrill\bin\Debug\214_TryCatchDrill.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\214_TryCatchDrill\214_TryCatchDrill\bin\Debug\214_TryCatchDrill.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\214_TryCatchDrill\214_TryCatchDrill\obj\Debug\214_TryCatchDrill.csprojAssemblyReference.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\214_TryCatchDrill\214_TryCatchDrill\obj\Debug\214_TryCatchDrill.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\214_TryCatchDrill\214_TryCatchDrill\obj\Debug\214_TryCatchDrill.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\214_TryCatchDrill\214_TryCatchDrill\obj\Debug\214_TryCatchDrill.pdb
