@@ -1,0 +1,7 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\223_MethodsDrill\223_MethodsDrill\bin\Debug\223_MethodsDrill.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\223_MethodsDrill\223_MethodsDrill\bin\Debug\223_MethodsDrill.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\223_MethodsDrill\223_MethodsDrill\bin\Debug\223_MethodsDrill.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\223_MethodsDrill\223_MethodsDrill\obj\Debug\223_MethodsDrill.csprojAssemblyReference.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\223_MethodsDrill\223_MethodsDrill\obj\Debug\223_MethodsDrill.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\223_MethodsDrill\223_MethodsDrill\obj\Debug\223_MethodsDrill.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\223_MethodsDrill\223_MethodsDrill\obj\Debug\223_MethodsDrill.pdb
