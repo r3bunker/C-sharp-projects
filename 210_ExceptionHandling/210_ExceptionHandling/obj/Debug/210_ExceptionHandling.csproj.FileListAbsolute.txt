@@ -1,0 +1,7 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\210_ExceptionHandling\210_ExceptionHandling\bin\Debug\210_ExceptionHandling.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\210_ExceptionHandling\210_ExceptionHandling\bin\Debug\210_ExceptionHandling.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\210_ExceptionHandling\210_ExceptionHandling\bin\Debug\210_ExceptionHandling.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\210_ExceptionHandling\210_ExceptionHandling\obj\Debug\210_ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\210_ExceptionHandling\210_ExceptionHandling\obj\Debug\210_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\210_ExceptionHandling\210_ExceptionHandling\obj\Debug\210_ExceptionHandling.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\210_ExceptionHandling\210_ExceptionHandling\obj\Debug\210_ExceptionHandling.pdb
