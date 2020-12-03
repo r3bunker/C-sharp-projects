@@ -78,27 +78,33 @@ class Program
         // String list
         List<string> searchList = new List<string>() { "Eagles", "Astros", "Jazz"};
 
-        // Ask user for input
-        Console.WriteLine("Search:");
-        string inputSearch = Console.ReadLine();
-        bool stringFound = false;
-        
-        // Get index
-        int index = searchList.FindIndex(a => a.Contains(inputSearch));
-
-
-        // Loop through searchList for inputSearch
-        for (int s = 0; s < searchList.Count; s++)
+        bool isGuessed = false;
+        while (!isGuessed)
         {
-            if (searchList[s] == inputSearch)
+
+            // Ask user for input
+            Console.WriteLine("Search:");
+            string inputSearch = Console.ReadLine();
+            bool stringFound = false;
+        
+            // Get index
+            int index = searchList.FindIndex(a => a.Contains(inputSearch));
+
+
+            // Loop through searchList for inputSearch
+            for (int s = 0; s < searchList.Count; s++)
             {
-                // Displays index of item
-                Console.WriteLine("Index: " + index);
-                stringFound = true;
+                if (searchList[s] == inputSearch)
+                {
+                    // Displays index of item
+                    Console.WriteLine("Index: " + index);
+                    stringFound = true;
+                    isGuessed = true;
+                }
             }
-        }
-        // Tells user item not found
-        if (!stringFound) { Console.WriteLine("Search result not in the list");
+            // Tells user item not found
+            if (!stringFound) { Console.WriteLine("Search result not in the list");
+            }
         }
         Console.ReadLine();
 
@@ -166,63 +172,11 @@ class Program
                 list2.Add(i);
             }
 
-
-
         }
         Console.WriteLine("List of Numbers: {0}", string.Join(", ", list2));
         Console.ReadLine();
         
-        //// Loop through list1 for duplicates
-        //for (int d = 0; d < identicalList.Count; d++)
-        //{
-            
-        //    // Get index
-        //    // Produce an enumeration of Indexes of inputSearch2
-        //    var searchDuplicates = list1
-        //        // First, add the index to the value by using Select with an anonymous type
-        //        .Select((t, i) => new { Index = i, Text = t })
-        //        // Keep only the inputSearch2 items
-        //        .Where(p => p.Text == list1[d])
-        //        // Use only indexes
-        //        .Select(p => p.Index);
-            
-            
-        //    foreach (var i in list1)
-        //    {
-        //        if(i.Contains(list1[d))
-        //        {
-
-        //        Console.WriteLine(i + ": is a duplicate");
-        //        equal = true;
-        //        break;
-
-        //        }
-        //        else
-        //        {
-        //            list2.Add(i);
-        //        }
-        //    }
-
-            
-        //}
-        //Console.WriteLine(list2);
-        //Console.ReadLine();
-
-        //// for loop to determine if the string has appeared in the list before
-        //foreach (var i in step6List)
-        //{
-        //    if (newStep6List.Contains(step6List))
-        //    {
-        //        // Duplicates exist
-        //        Console.WriteLine(i + ": duplicates exist");
-        //    }
-        //    else
-        //    {
-        //        newStep6List.Add(i);
-        //        Console.WriteLine(i + ": This has not appeared in the list.");
-        //    }
-        //}
-        //Console.ReadLine();
+        
 
 
     }
