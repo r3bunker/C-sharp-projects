@@ -1,0 +1,7 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\231_ClassDrill\231_ClassDrill\bin\Debug\231_ClassDrill.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\231_ClassDrill\231_ClassDrill\bin\Debug\231_ClassDrill.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\231_ClassDrill\231_ClassDrill\bin\Debug\231_ClassDrill.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\231_ClassDrill\231_ClassDrill\obj\Debug\231_ClassDrill.csprojAssemblyReference.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\231_ClassDrill\231_ClassDrill\obj\Debug\231_ClassDrill.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\231_ClassDrill\231_ClassDrill\obj\Debug\231_ClassDrill.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\231_ClassDrill\231_ClassDrill\obj\Debug\231_ClassDrill.pdb
