@@ -13,7 +13,7 @@ namespace _228_VoidMethod
             // Instantiate Method
             Void product = new Void();
 
-            Void.computeProduct(num2: 5, num1: 10);
+            Void.computeProduct(num1: 5, num2: 10);
 
             
             Console.ReadLine();
