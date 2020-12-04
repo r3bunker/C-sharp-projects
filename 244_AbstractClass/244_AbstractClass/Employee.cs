@@ -14,7 +14,7 @@ namespace _244_AbstractClass
 
         public void Quit()
         {
-            Console.WriteLine($"Quitting the game");
+            Console.WriteLine("Quittable");
         }
         public override void sayName()
         {

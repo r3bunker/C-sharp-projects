@@ -11,10 +11,12 @@ namespace _244_AbstractClass
         static void Main(string[] args)
         {
             Employee employee = new Employee() { FirstName = "Sample", LastName = "Student" };
-
+            IQuittable employee2 = new Employee() { FirstName = "Sample", LastName = "Student" };
             employee.sayName();
+            
+            
 
-            employee.Quit();
+            employee2.Quit();
             Console.ReadLine();
         }
     }
