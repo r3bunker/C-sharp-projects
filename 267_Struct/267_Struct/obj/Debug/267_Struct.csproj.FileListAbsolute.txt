@@ -1,0 +1,6 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\267_Struct\267_Struct\bin\Debug\267_Struct.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\267_Struct\267_Struct\bin\Debug\267_Struct.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\267_Struct\267_Struct\bin\Debug\267_Struct.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\267_Struct\267_Struct\obj\Debug\267_Struct.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\267_Struct\267_Struct\obj\Debug\267_Struct.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\267_Struct\267_Struct\obj\Debug\267_Struct.pdb
