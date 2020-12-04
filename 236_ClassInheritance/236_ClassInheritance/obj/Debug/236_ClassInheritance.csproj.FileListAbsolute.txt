@@ -1,0 +1,6 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\236_ClassInheritance\236_ClassInheritance\bin\Debug\236_ClassInheritance.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\236_ClassInheritance\236_ClassInheritance\bin\Debug\236_ClassInheritance.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\236_ClassInheritance\236_ClassInheritance\bin\Debug\236_ClassInheritance.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\236_ClassInheritance\236_ClassInheritance\obj\Debug\236_ClassInheritance.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\236_ClassInheritance\236_ClassInheritance\obj\Debug\236_ClassInheritance.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\236_ClassInheritance\236_ClassInheritance\obj\Debug\236_ClassInheritance.pdb
