@@ -6,11 +6,25 @@ using System.Threading.Tasks;
 
 namespace _244_AbstractClass
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
+        public int ID { get; set; }
+        
+        public IQuittable Name { get; set; }
+
+        public void Quit()
+        {
+            Console.WriteLine($"Quitting the game");
+        }
         public override void sayName()
         {
             base.sayName();
         }
+        public void Quit(Employee employee)
+        {
+            throw new NotImplementedException();
+        }
+        
+
     }
 }

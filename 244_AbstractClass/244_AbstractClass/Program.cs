@@ -14,6 +14,7 @@ namespace _244_AbstractClass
 
             employee.sayName();
 
+            employee.Quit();
             Console.ReadLine();
         }
     }

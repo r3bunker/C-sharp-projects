@@ -4,3 +4,4 @@ C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\244_AbstractClass\24
 C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\244_AbstractClass\244_AbstractClass\obj\Debug\244_AbstractClass.csproj.CoreCompileInputs.cache
 C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\244_AbstractClass\244_AbstractClass\obj\Debug\244_AbstractClass.exe
 C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\244_AbstractClass\244_AbstractClass\obj\Debug\244_AbstractClass.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\244_AbstractClass\244_AbstractClass\obj\Debug\244_AbstractClass.csprojAssemblyReference.cache
