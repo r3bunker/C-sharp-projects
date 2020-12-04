@@ -24,6 +24,9 @@ namespace _231_ClassDrill
 
             Console.WriteLine("Overload Output: {0}", x);
 
+            int result = OtherClass.Sum(num1: 5,num2: 10);
+            Console.WriteLine(result);
+
 
             Console.ReadLine();
         }
