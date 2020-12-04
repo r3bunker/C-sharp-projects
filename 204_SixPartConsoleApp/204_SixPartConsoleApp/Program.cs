@@ -165,15 +165,16 @@ class Program
             //list2.Add(i);
             if (list2.Contains(i))
             {
-                Console.WriteLine(i + ": This is a duplicate");
+                Console.WriteLine(i + ": has already appeared in the list.");
             }
             else
             {
                 list2.Add(i);
+                Console.WriteLine(i + ": has not appeared in the list.");
             }
 
         }
-        Console.WriteLine("List of Numbers: {0}", string.Join(", ", list2));
+        Console.WriteLine("List of Numbers with no duplicates: {0}", string.Join(", ", list2));
         Console.ReadLine();
         
         
