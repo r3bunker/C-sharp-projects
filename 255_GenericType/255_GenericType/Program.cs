@@ -23,20 +23,26 @@ namespace _255_GenericType
 
             
             // Instantiate List type int
-            Employee<int> employeeID = new Employee<int>
+            Employee<int> employeeIDs = new Employee<int>
             {
                 Things = new List<int>()
             };
-            employeeID.Things.Add(3452);
-            employeeID.Things.Add(5643);
-            employeeID.Things.Add(5948);
-            employeeID.Things.Add(8348);
+            employeeIDs.Things.Add(3452);
+            employeeIDs.Things.Add(5643);
+            employeeIDs.Things.Add(5948);
+            employeeIDs.Things.Add(8348);
 
 
-
-            foreach (var employee in employees)
+            // Iterate through employees 
+            foreach (string employee in employees.Things)
             {
                 Console.WriteLine(employee);
+            }
+
+            // Iterate through employeeIDs
+            foreach (int employeeID in employeeIDs.Things)
+            {
+                Console.WriteLine(employeeID);
             }
 
 
