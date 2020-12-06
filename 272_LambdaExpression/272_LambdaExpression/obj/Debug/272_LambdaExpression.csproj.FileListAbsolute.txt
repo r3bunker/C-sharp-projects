@@ -1,0 +1,7 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\272_LambdaExpression\272_LambdaExpression\bin\Debug\272_LambdaExpression.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\272_LambdaExpression\272_LambdaExpression\bin\Debug\272_LambdaExpression.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\272_LambdaExpression\272_LambdaExpression\bin\Debug\272_LambdaExpression.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\272_LambdaExpression\272_LambdaExpression\obj\Debug\272_LambdaExpression.csprojAssemblyReference.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\272_LambdaExpression\272_LambdaExpression\obj\Debug\272_LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\272_LambdaExpression\272_LambdaExpression\obj\Debug\272_LambdaExpression.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\272_LambdaExpression\272_LambdaExpression\obj\Debug\272_LambdaExpression.pdb
