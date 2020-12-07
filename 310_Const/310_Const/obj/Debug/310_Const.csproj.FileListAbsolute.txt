@@ -1,0 +1,6 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\310_Const\310_Const\bin\Debug\310_Const.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\310_Const\310_Const\bin\Debug\310_Const.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\310_Const\310_Const\bin\Debug\310_Const.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\310_Const\310_Const\obj\Debug\310_Const.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\310_Const\310_Const\obj\Debug\310_Const.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\310_Const\310_Const\obj\Debug\310_Const.pdb
