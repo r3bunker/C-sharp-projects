@@ -1,0 +1,6 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\300_DateTime\300_DateTime\bin\Debug\300_DateTime.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\300_DateTime\300_DateTime\bin\Debug\300_DateTime.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\300_DateTime\300_DateTime\bin\Debug\300_DateTime.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\300_DateTime\300_DateTime\obj\Debug\300_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\300_DateTime\300_DateTime\obj\Debug\300_DateTime.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\300_DateTime\300_DateTime\obj\Debug\300_DateTime.pdb
