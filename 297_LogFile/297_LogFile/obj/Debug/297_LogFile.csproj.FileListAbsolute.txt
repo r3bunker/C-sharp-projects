@@ -1,0 +1,7 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\297_LogFile\297_LogFile\bin\Debug\297_LogFile.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\297_LogFile\297_LogFile\bin\Debug\297_LogFile.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\297_LogFile\297_LogFile\bin\Debug\297_LogFile.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\297_LogFile\297_LogFile\obj\Debug\297_LogFile.csprojAssemblyReference.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\297_LogFile\297_LogFile\obj\Debug\297_LogFile.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\297_LogFile\297_LogFile\obj\Debug\297_LogFile.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\297_LogFile\297_LogFile\obj\Debug\297_LogFile.pdb
