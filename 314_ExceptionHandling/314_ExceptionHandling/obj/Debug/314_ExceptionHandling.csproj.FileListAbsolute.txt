@@ -1,0 +1,6 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\314_ExceptionHandling\314_ExceptionHandling\bin\Debug\314_ExceptionHandling.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\314_ExceptionHandling\314_ExceptionHandling\bin\Debug\314_ExceptionHandling.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\314_ExceptionHandling\314_ExceptionHandling\bin\Debug\314_ExceptionHandling.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\314_ExceptionHandling\314_ExceptionHandling\obj\Debug\314_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\314_ExceptionHandling\314_ExceptionHandling\obj\Debug\314_ExceptionHandling.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\314_ExceptionHandling\314_ExceptionHandling\obj\Debug\314_ExceptionHandling.pdb
