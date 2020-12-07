@@ -1,0 +1,10 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\215_BlackJack\215_BlackJack\bin\Debug\215_BlackJack.exe.config
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\215_BlackJack\215_BlackJack\bin\Debug\215_BlackJack.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\215_BlackJack\215_BlackJack\bin\Debug\215_BlackJack.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\215_BlackJack\215_BlackJack\obj\Debug\215_BlackJack.csprojAssemblyReference.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\215_BlackJack\215_BlackJack\obj\Debug\215_BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\215_BlackJack\215_BlackJack\obj\Debug\215_BlackJack.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\215_BlackJack\215_BlackJack\obj\Debug\215_BlackJack.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\215_BlackJack\215_BlackJack\bin\Debug\Casino.dll
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\215_BlackJack\215_BlackJack\bin\Debug\Casino.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\215_BlackJack\215_BlackJack\obj\Debug\215_BlackJack.csproj.CopyComplete
