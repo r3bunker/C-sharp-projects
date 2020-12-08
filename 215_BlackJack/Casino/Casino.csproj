@@ -31,10 +31,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Casino, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\Casino.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -56,6 +52,12 @@
     <Compile Include="TwentyOneDealer.cs" />
     <Compile Include="TwentyOneGame.cs" />
     <Compile Include="TwentyOneRules.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\215_BlackJack\215_BlackJack.csproj">
+      <Project>{b3909a88-a800-4269-b276-4d31c36d5586}</Project>
+      <Name>215_BlackJack</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
