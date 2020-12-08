@@ -25,37 +25,26 @@ namespace _272_LambdaExpression
 
             };
 
-            List<string> joeList = new List<string>();
+            List<Employee> joeList = new List<Employee>();
             foreach (var employee in Employees)
             {
                 if (employee.FirstName == "Joe")
                 {
                     Employee employeeJoe = new Employee();
-                    joeList.Add(Convert.ToString(employee.FirstName+ " " + employee.LastName+ " "+ employee.ID));
+                    joeList.Add(employee);
                 }
             }
-            Console.WriteLine("Joe List: ");
-            Console.WriteLine(string.Join("\n", joeList));
-            Console.ReadLine();
+            
 
             // Lambda Expression for list of Joes
-            List<string> lambdaJoeList = new List<string>();
-            foreach (Employee employee in Employees.FindAll(e => e.FirstName == "Joe").ToList())
-            {
-                lambdaJoeList.Add(Convert.ToString(employee.FirstName + " " + employee.LastName + " " + employee.ID));
-            }
-            Console.WriteLine("Lambda Joe List: ");
-            Console.WriteLine(string.Join("\n", lambdaJoeList));
-            Console.ReadLine();
-
+            List<Employee> lambdaJoeList = new List<Employee>();
+            lambdaJoeList = Employees.FindAll(e => e.FirstName == "Joe").ToList();
+            
+            
             // Lambda expression for list of ID > 5
-            List<string> lambdaIDList = new List<string>();
-            foreach (Employee employee in Employees.FindAll(i => i.ID > 5).ToList())
-            {
-                lambdaIDList.Add(Convert.ToString(employee.FirstName + " " + employee.LastName + " " + employee.ID));
-            }
-            Console.WriteLine("ID > 5");
-            Console.WriteLine(string.Join("\n", lambdaIDList));
+            List<Employee> lambdaIDList = new List<Employee>();
+            lambdaIDList = Employees.FindAll(i => i.ID > 5).ToList();
+           
 
             Console.ReadLine();
         }
