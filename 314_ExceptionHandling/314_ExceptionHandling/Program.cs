@@ -33,13 +33,13 @@ namespace _314_ExceptionHandling
             }
             catch (ApplicationException)
             {
-                Console.WriteLine("Please enter your current age. No negative numbers.");
+                Console.WriteLine("Please enter your current age. No negative numbers or decimals.");
                 Console.ReadLine();
                 return;
             }
             catch (FormatException)
             {
-                Console.WriteLine("Please enter in digits, no letters.");
+                Console.WriteLine("Please enter in digits, no letters or decimals.");
                 Console.ReadLine();
                 return;
             }
