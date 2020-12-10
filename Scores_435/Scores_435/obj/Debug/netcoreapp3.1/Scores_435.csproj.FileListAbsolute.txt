@@ -1,0 +1,13 @@
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Scores_435\Scores_435\bin\Debug\netcoreapp3.1\Scores_435.exe
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Scores_435\Scores_435\bin\Debug\netcoreapp3.1\Scores_435.deps.json
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Scores_435\Scores_435\bin\Debug\netcoreapp3.1\Scores_435.runtimeconfig.json
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Scores_435\Scores_435\bin\Debug\netcoreapp3.1\Scores_435.runtimeconfig.dev.json
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Scores_435\Scores_435\bin\Debug\netcoreapp3.1\Scores_435.dll
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Scores_435\Scores_435\bin\Debug\netcoreapp3.1\Scores_435.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Scores_435\Scores_435\obj\Debug\netcoreapp3.1\Scores_435.csprojAssemblyReference.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Scores_435\Scores_435\obj\Debug\netcoreapp3.1\Scores_435.AssemblyInfoInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Scores_435\Scores_435\obj\Debug\netcoreapp3.1\Scores_435.AssemblyInfo.cs
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Scores_435\Scores_435\obj\Debug\netcoreapp3.1\Scores_435.csproj.CoreCompileInputs.cache
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Scores_435\Scores_435\obj\Debug\netcoreapp3.1\Scores_435.dll
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Scores_435\Scores_435\obj\Debug\netcoreapp3.1\Scores_435.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\Scores_435\Scores_435\obj\Debug\netcoreapp3.1\Scores_435.genruntimeconfig.cache
