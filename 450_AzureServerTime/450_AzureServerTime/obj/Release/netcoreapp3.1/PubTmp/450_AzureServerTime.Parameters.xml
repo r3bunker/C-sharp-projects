@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="450AzureServerTime20201209201415" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\RyanB\\Desktop\\Tech_Academy\\GitHub\\C-sharp-projects\\450_AzureServerTime\\450_AzureServerTime\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
