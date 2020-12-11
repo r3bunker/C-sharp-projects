@@ -80,3 +80,4 @@ C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\451_FinalChallenge\4
 C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\451_FinalChallenge\451_FinalChallenge\obj\Debug\451_FinalChallenge.csproj.CopyComplete
 C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\451_FinalChallenge\451_FinalChallenge\obj\Debug\451_FinalChallenge.dll
 C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\451_FinalChallenge\451_FinalChallenge\obj\Debug\451_FinalChallenge.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\451_FinalChallenge\451_FinalChallenge\obj\Debug\451_FinalChallenge.csprojAssemblyReference.cache
