@@ -20,19 +20,19 @@ namespace _147_MathChallenge
 
             // Addition
             int addition = num1 + num2;
-            Console.WriteLine(addition);
+            Console.WriteLine(firstAnswer + " + " + secondAnswer + " = " + addition);
 
             // Subtraction
             int subtraction = num1 - num2;
-            Console.WriteLine(subtraction);
+            Console.WriteLine(firstAnswer + " - " + secondAnswer + " = " + subtraction);
 
             // Multiplication
             int multiply = num1 * num2;
-            Console.WriteLine(multiply);
+            Console.WriteLine(firstAnswer + " * " + secondAnswer + " = " + multiply);
 
             // Division
             int divide = num1 / num2;
-            Console.WriteLine(divide);
+            Console.WriteLine(firstAnswer + " / " + secondAnswer + " = " + divide);
 
             Console.ReadLine();
 

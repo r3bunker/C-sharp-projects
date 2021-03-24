@@ -4,3 +4,4 @@ C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\147_MathChallenge\14
 C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\147_MathChallenge\147_MathChallenge\obj\Debug\147_MathChallenge.csproj.CoreCompileInputs.cache
 C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\147_MathChallenge\147_MathChallenge\obj\Debug\147_MathChallenge.exe
 C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\147_MathChallenge\147_MathChallenge\obj\Debug\147_MathChallenge.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\147_MathChallenge\147_MathChallenge\obj\Debug\147_MathChallenge.csprojAssemblyReference.cache
