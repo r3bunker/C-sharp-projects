@@ -4,3 +4,4 @@ C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\168_RentalCar\168_Re
 C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\168_RentalCar\168_RentalCar\obj\Debug\168_RentalCar.csproj.CoreCompileInputs.cache
 C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\168_RentalCar\168_RentalCar\obj\Debug\168_RentalCar.exe
 C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\168_RentalCar\168_RentalCar\obj\Debug\168_RentalCar.pdb
+C:\Users\RyanB\Desktop\Tech_Academy\GitHub\C-sharp-projects\168_RentalCar\168_RentalCar\obj\Debug\168_RentalCar.csprojAssemblyReference.cache
